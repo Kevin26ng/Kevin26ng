@@ -1,5 +1,5 @@
 # 💫 About Me:
-My dad always told me, "Brevity is the soul of wit." In the spirit of keeping things sharp and avoiding the usual copy-paste developer bios, here is the executive summary. <br><br> I’m currently working on mapping out high-leverage ideas. The goal isn't just to write code; it's to build systems that actually move the needle and leave a dent in the world.<br><br> I’m looking to collaborate on ventures with massive, undeniable scale. I'm interested in building with a billion-dollar empire trajectory.<br><br> I’m currently learning to bridge the gap between full-stack reality (MERN) and neural potential (Deep Learning). Off the screen, I am currently developing an all in one AI travel architect designed to automate personalized trip planning and execution. 
+<br><br> I’m currently working on mapping out high-leverage ideas. The goal isn't just to write code; it's to build systems that actually move the needle and leave a dent in the world.<br><br> I’m looking to collaborate on ventures with massive, undeniable scale. I'm interested in building with a billion-dollar empire trajectory.<br><br> I’m currently learning to bridge the gap between full-stack reality (MERN) and neural potential (Deep Learning). Off the screen, I am currently developing an all in one AI travel architect designed to automate personalized trip planning and execution. 
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ My dad always told me, "Brevity is the soul of wit." In the spirit of keeping th
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin26ng&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Quote
-The fool doth think he is wise, but the wise man knows himself to be a fool
+Brevity is the soul of wit.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kevin26ng&limit=5&theme=dark&combine_all_yearly_contributions=true)
