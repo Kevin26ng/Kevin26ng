@@ -1,5 +1,11 @@
 # 💫 About Me:
-<br><br> I’m currently working on mapping out high-leverage ideas. The goal isn't just to write code; it's to build systems that actually move the needle and leave a dent in the world.<br><br> I’m looking to collaborate on ventures with massive, undeniable scale. I'm interested in building with a billion-dollar empire trajectory.<br><br> I’m currently learning to bridge the gap between full-stack reality (MERN) and neural potential (Deep Learning). Off the screen, I am currently developing an all in one AI travel architect designed to automate personalized trip planning and execution. 
+<br><br> 
+I build things I actually care about.
+These days, I'm less focused on writing code for the sake of it more on finding the ideas worth betting on. The kind of systems that compound over time and quietly shift how things work.
+I'm drawn to projects with real room to grow. Not just functional, but the sort that could turn into something you look back on.
+My current world lives somewhere between full-stack (MERN) and deep learning two things that feel more interesting together than apart.
+One thing I'm building right now: an AI travel architect that takes the chaos out of trip planning and makes the whole thing feel effortless, start to finish.
+<br><br>
 
 
 ## 🌐 Socials:
